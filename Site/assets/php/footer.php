@@ -1,5 +1,22 @@
 <footer>
-    <p>&copy; Votre Nom</p>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <h5>À propos de nous</h5>
+                <p>Nous sommes une entreprise dédiée à fournir les meilleurs services à nos clients.</p>
+            </div>
+            <div class="col-md-4">
+                <h5>Contactez-nous</h5>
+                <p>123 Rue de la Ville, 67000 Strasbourg, France</p>
+                <p>Email: XXXX@XXXXXXgmail.com</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <p class="text-center">&copy; 2023 Notre Entreprise. Tous droits réservés.</p>
+            </div>
+        </div>
+    </div>
 </footer>
 
     <!-- jQuery -->
