@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Tarifs</title>
+    <title>Basic Frites  - Tarifs</title>
 
 <?php
     include('assets/php/nav.php');

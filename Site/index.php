@@ -2,7 +2,7 @@
 <html lang="fr">
 
   <head>
-    <title>Basic Frites</title>
+    <title>Basic Frites - Accueil</title>
 
     <?php
     include('assets/php/nav.php');

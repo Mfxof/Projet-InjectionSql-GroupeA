@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Connexion</title>
+    <title>Basic Frites - Connexion</title>
 
 <?php
     include('assets/php/nav.php');

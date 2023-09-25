@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Espace Membres</title>
+    <title>Basic Frites  - Espace Membres</title>
 
 <?php
     include('assets/php/nav.php');
