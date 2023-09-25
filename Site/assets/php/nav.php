@@ -28,7 +28,7 @@
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
-                            <li class="scroll-to-section"><a href= index.php class="active">Acceuil</a></li>
+                            <li class="scroll-to-section"><a href= index.php class="active">Accueil</a></li>
                             <li class="scroll-to-section"><a href= Concept.php>Concept</a></li>
                             <li class="scroll-to-section"><a href= Activites.php>Activités</a></li>
                             <li class="scroll-to-section"><a href= Tarifs.php>Tarifs / Abonnemments</a></li>
