@@ -57,7 +57,7 @@ Optionel :
 
 ## Outils
 - Langages : HTML, CSS, JavaScript, SQL
-- Base de donenées : phpMysAdmin
+- Base de donenées : phpMyAdmin
 
 ## Équipe
 - FREYERMUTH Matys
