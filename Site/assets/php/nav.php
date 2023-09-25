@@ -32,7 +32,6 @@
                             <li class="scroll-to-section"><a href= Concept.php>Concept</a></li>
                             <li class="scroll-to-section"><a href= Activites.php>Activités</a></li>
                             <li class="scroll-to-section"><a href= Tarifs.php>Tarifs / Abonnemments</a></li>
-                            <li class="scroll-to-section"><a href= memberSpace.php>Espace Membres</a></li> 
                             <li class="main-button"><a href= connexion.php>Sign Up</a></li>
                         </ul>        
                         <a class='menu-trigger'>
