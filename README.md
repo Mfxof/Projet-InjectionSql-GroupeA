@@ -25,11 +25,13 @@ Ce projet vise à tester les injections SQL sur un site de sport que nous créon
 - [x] Créer le projet sur Github
 
 - [ ] Créer le site de sport
-    - [ ] Définir la structure du site
+    - [x] Définir la structure du site
       - [x] Une page d’accueil
-      - [ ] Une page de présentation des activités
-      - [ ] Une page connexion membre 
+      - [x] Une page de présentation des activités
+      - [x] Une page connexion membre 
     - [ ] Développer les fonctionnalités du site
+      - [ ] Acces a la base de donnés *phpMyAdmin*
+      - [ ] Configuration de la BD   
     - [ ] Tester le site
 
 - [ ] Élaborer les requêtes SQL
