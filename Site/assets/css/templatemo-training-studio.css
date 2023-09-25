@@ -1,3 +1,50 @@
+/* Perso */
+.pricing {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 150px;
+}
+
+.pricing-item {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  width: 30%;
+}
+
+.pricing-item h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.pricing-item p {
+  line-height: 1.6;
+}
+
+.btn,
+.btn-primary {
+  background-color: #ed563b;
+  color: #fff; /* Ajoutez cette ligne pour définir la couleur du texte sur le bouton */
+  text-decoration: none; /* Supprimez le soulignement du texte sur le bouton */
+  padding: 10px 20px; /* Ajoutez un espace autour du texte du bouton */
+  border: none; /* Supprimez la bordure du bouton */
+  border-radius: 5px; /* Ajoutez une légère courbure aux coins du bouton */
+  transition: background-color 0.3s; /* Ajoutez une transition pour un effet de survol fluide */
+  margin-top: 20px;
+}
+
+/* Style au survol du bouton */
+.btn:hover,
+.btn-primary:hover {
+  background-color: #ff6f49; /* Couleur de fond au survol */
+}
+
+
+
+
+
+
+
 /*
 
 TemplateMo 548 Training Studio
