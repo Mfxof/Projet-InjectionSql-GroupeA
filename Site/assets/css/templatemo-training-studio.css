@@ -42,6 +42,62 @@
 
 
 
+/* Formulaires */
+.registration-form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: -150px;
+  margin-bottom: 80px;
+}
+
+.registration-form h1 {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.registration-form p {
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.registration-form .form-group {
+  margin-bottom: 20px;
+}
+
+.registration-form label {
+  font-size: 18px;
+  color: #333;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.registration-form .form-control {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 100%;
+}
+
+.registration-form .btn-register {
+  background-color: #ff6f49;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+
+
 
 
 /*
