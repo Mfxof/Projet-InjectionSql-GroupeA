@@ -24,7 +24,10 @@ Ce projet vise à tester les injections SQL sur un site de sport que nous créon
 - [x] Créer le projet sur Github
 
 - [ ] Créer le site de sport
-    - [x] Définir la structure du site
+    - [ ] Définir la structure du site
+      - [x] Une page d’accueil
+      - [ ] Une page de présentation des activités
+      - [ ] Une page connexion membre 
     - [ ] Développer les fonctionnalités du site
     - [ ] Tester le site
 
@@ -38,13 +41,18 @@ Ce projet vise à tester les injections SQL sur un site de sport que nous créon
     - [ ] Exécuter les tests d'injection SQL
     - [ ] Analyser les résultats des tests
 
+
+Optionel :
 - [ ] Implémenter des mesures de sécurité contre les injections SQL
     - [ ] Rechercher et comprendre les meilleures pratiques de sécurité
     - [ ] Appliquer ces pratiques au site
     - [ ] Tester à nouveau le site
 
+---
+
 - [ ] Documenter tout le processus et partager les résultats
 
+![Alt text](Divers/arborecenceSql.png)
 
 ## Outils
 - Langages : HTML, CSS, JavaScript, SQL
