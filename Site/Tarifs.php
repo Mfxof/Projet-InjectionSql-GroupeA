@@ -7,6 +7,21 @@
 <body>
     <?php include('assets/php/nav.php'); ?>
 
+
+    <section class="section" id="our-classes">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 offset-lg-3">
+                    <div class="section-heading">
+                        <h2>Nos <em>Tarifs</em></h2>
+                        <img src="assets/images/line-dec.png" alt="">
+                        <p>Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed viverra ipsum dolor, ultricies fermentum massa consequat eu.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row" id="tabs">
+        </div>
+
     <div class="pricing">
         <div class="card" style="width: 18rem;">
             <img src="assets/images/priceBoy1.png" class="card-img-top" alt="Image Tarif Basique">
