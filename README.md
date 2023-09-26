@@ -24,7 +24,7 @@ Ce projet vise à tester les injections SQL sur un site de sport que nous créon
 ## Objectifs
 - [x] Créer le projet sur Github
 
-- [ ] Créer le site de sport
+- [x] Créer le site de sport
     - [x] Définir la structure du site
       - [x] Une page d’accueil
       - [x] Une page de présentation des activités
