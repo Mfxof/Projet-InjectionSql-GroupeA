@@ -1,3 +1,105 @@
+/* Perso */
+.pricing {
+  display: flex;
+  justify-content: space-around;
+}
+
+.pricing-item {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  width: 30%;
+}
+
+.pricing-item h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.pricing-item p {
+  line-height: 1.6;
+}
+
+.btn,
+.btn-primary {
+  background-color: #ed563b;
+  color: #fff; /* Ajoutez cette ligne pour définir la couleur du texte sur le bouton */
+  text-decoration: none; /* Supprimez le soulignement du texte sur le bouton */
+  padding: 10px 20px; /* Ajoutez un espace autour du texte du bouton */
+  border: none; /* Supprimez la bordure du bouton */
+  border-radius: 5px; /* Ajoutez une légère courbure aux coins du bouton */
+  transition: background-color 0.3s; /* Ajoutez une transition pour un effet de survol fluide */
+  margin-top: 20px;
+}
+
+/* Style au survol du bouton */
+.btn:hover,
+.btn-primary:hover {
+  background-color: #ff6f49; /* Couleur de fond au survol */
+}
+
+
+
+
+
+/* Formulaires */
+.registration-form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: -150px;
+  margin-bottom: 80px;
+}
+
+.registration-form h1 {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.registration-form p {
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.registration-form .form-group {
+  margin-bottom: 20px;
+}
+
+.registration-form label {
+  font-size: 18px;
+  color: #333;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.registration-form .form-control {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 100%;
+}
+
+.registration-form .btn-register {
+  background-color: #ff6f49;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+
+
+
+
 /*
 
 TemplateMo 548 Training Studio
@@ -202,7 +304,7 @@ header
 */
 
 .background-header {
-  background: rgba(250,250,250,0.99) !important;
+  background: rgba(250, 250, 250, 0.99) !important;
   height: 80px!important;
   position: fixed!important;
   top: 0px;
@@ -239,7 +341,7 @@ header
   right: 0px;
   z-index: 100;
   height: 80px;
-  background: rgba(250,250,250,0.1);
+  background: rgba(90,90,90,0.5);
   -webkit-transition: all .5s ease 0s;
   -moz-transition: all .5s ease 0s;
   -o-transition: all .5s ease 0s;
