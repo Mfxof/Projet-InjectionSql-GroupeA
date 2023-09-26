@@ -30,8 +30,8 @@ Ce projet vise à tester les injections SQL sur un site de sport que nous créon
       - [x] Une page de présentation des activités
       - [x] Une page connexion membre 
     - [ ] Développer les fonctionnalités du site
-      - [ ] Acces a la base de donnés *phpMyAdmin*
-      - [ ] Configuration de la BD   
+      - [x] Acces a la base de donnés *phpMyAdmin*
+      - [x] Configuration de la BD   
     - [ ] Tester le site
 
 - [ ] Élaborer les requêtes SQL
