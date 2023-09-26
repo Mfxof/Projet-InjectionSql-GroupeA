@@ -20,9 +20,13 @@ $query = "SELECT * FROM membre WHERE Login='$user' AND Psw='$pass'";
 $result = $mysqli->query($query);
 
 if ($result->num_rows == 1) {
-    echo "Authentification réussie. Vous pouvez accéder à votre compte.";
+    header("Location: ../profil.php");
+    exit();
 } else {
-    echo "Erreur : Nom d'utilisateur ou mot de passe incorrect.";
+    header("Location: ../connexion.php?error=1");
+    exit();
 }
+
 $mysqli->close();
 ?>
+
