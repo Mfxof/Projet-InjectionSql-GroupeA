@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Basic Frites - Contact</title>
+    <title>Basic Frites - Profil</title>
 
 <?php
     include('assets/php/nav.php');
@@ -20,32 +20,32 @@
                 </div>
                 <div class="col-lg-6">
                     <ul class="features-items">
-                        <li class="feature-item">
+                        <li class="feature-item" style="display:flex; flex-direction:row;">
                             <div class="left-icon">
                                 <img src="assets/images/features-first-icon.png" alt="Premier">
                             </div>
                             <div class="right-content">
-                            <label for="username">Nom d'utilisateur</label>
+                            <label for="username"><h5>Nom :</h5></label>
 
                             </div>
                         </li>
                         <br>
-                        <li class="feature-item">
+                        <li class="feature-item" style="display:flex; flex-direction:row;">
                             <div class="left-icon">
                                 <img src="assets/images/features-first-icon.png" alt="deuxième">
                             </div>
                             <div class="right-content">
-                            <label for="username">Adresse Mail</label>
-
+                            <label for="username"><h5>Adresse postale :</h5></label>
+                            
                             </div>
                         </li>
                         <br>
-                        <li class="feature-item">
+                        <li class="feature-item" style="display:flex; flex-direction:row;">
                             <div class="left-icon">
                                 <img src="assets/images/features-first-icon.png" alt="troisième">
                             </div>
                             <div class="right-content">
-                            <label for="username">Numéro de téléphone</label>
+                            <label for="username"><h5>Numéro de téléphone :</h5></label>
 
                             </div>
                         </li>
@@ -53,22 +53,32 @@
                 </div>
                 <div class="col-lg-6">
                     <ul class="features-items">
-                        <li class="feature-item">
+                        <li class="feature-item" style="display:flex; flex-direction:row;">
                             <div class="left-icon">
-                                <img src="assets/images/features-first-icon.png" alt="quatrième">
+                                <img src="assets/images/features-first-icon.png" alt="Premier">
                             </div>
                             <div class="right-content">
-                            <label for="username">Mot de Passe</label>
+                            <label for="username"><h5>Prénom :</h5></label>
 
                             </div>
                         </li>
                         <br>
-                        <li class="feature-item">
+                        <li class="feature-item" style="display:flex; flex-direction:row;">
+                            <div class="left-icon">
+                                <img src="assets/images/features-first-icon.png" alt="quatrième">
+                            </div>
+                            <div class="right-content">
+                            <label for="username"><h5>Adresse mail :</h5></label>
+
+                            </div>
+                        </li>
+                        <br>
+                        <li class="feature-item" style="display:flex; flex-direction:row;">
                             <div class="left-icon">
                                 <img src="assets/images/features-first-icon.png" alt="cinquième">
                             </div>
                             <div class="right-content">
-                            <label for="username">Formation Inscrit</label>
+                            <label for="username"><h5>Formation inscrite :</h5></label>
 
                             </div>
                         </li>

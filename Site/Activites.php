@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Basic Frites - Contact</title>
+    <title>Basic Frites - Activites</title>
 
 <?php
     include('assets/php/nav.php');
