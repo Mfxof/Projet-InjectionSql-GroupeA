@@ -24,15 +24,15 @@ Ce projet vise à tester les injections SQL sur un site de sport que nous créon
 ## Objectifs
 - [x] Créer le projet sur Github
 
-- [ ] Créer le site de sport
+- [x] Créer le site de sport
     - [x] Définir la structure du site
       - [x] Une page d’accueil
       - [x] Une page de présentation des activités
       - [x] Une page connexion membre 
-    - [ ] Développer les fonctionnalités du site
-      - [ ] Acces a la base de donnés *phpMyAdmin*
-      - [ ] Configuration de la BD   
-    - [ ] Tester le site
+    - [x] Développer les fonctionnalités du site
+      - [x] Acces a la base de donnés *phpMyAdmin*
+      - [x] Configuration de la BD   
+    - [x] Tester le site
 
 - [ ] Élaborer les requêtes SQL
     - [ ] Définir les requêtes nécessaires
@@ -43,17 +43,20 @@ Ce projet vise à tester les injections SQL sur un site de sport que nous créon
     - [ ] Définir les scénarios de test
     - [ ] Exécuter les tests d'injection SQL
     - [ ] Analyser les résultats des tests
+     
 
 
-Optionel :
+- [ ] Documenter tout le processus et partager les résultats
+
+---
+
+Optionel -Apres le projet si envie- :
 - [ ] Implémenter des mesures de sécurité contre les injections SQL
     - [ ] Rechercher et comprendre les meilleures pratiques de sécurité
     - [ ] Appliquer ces pratiques au site
     - [ ] Tester à nouveau le site
 
 ---
-
-- [ ] Documenter tout le processus et partager les résultats
 
 ![Alt text](Divers/arborecenceSql.png)
 

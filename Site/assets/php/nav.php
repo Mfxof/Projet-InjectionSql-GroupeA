@@ -24,7 +24,7 @@
                 <div class="col-12">
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
-                        <a href="index.html" class="logo">Basic<em> Frites</em></a>
+                        <a href="index.php" class="logo">Basic<em> Frites</em></a>
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
@@ -32,7 +32,7 @@
                             <li class="scroll-to-section"><a href= Concept.php>Concept</a></li>
                             <li class="scroll-to-section"><a href= Activites.php>Activités</a></li>
                             <li class="scroll-to-section"><a href= Tarifs.php>Tarifs / Abonnemments</a></li>
-                            <li class="main-button"><a href= connexion.php>Sign Up</a></li>
+                            <li class="main-button"><a href= connexion.php>Connexion</a></li>
                         </ul>        
                         <a class='menu-trigger'>
                             <span>Menu</span>
