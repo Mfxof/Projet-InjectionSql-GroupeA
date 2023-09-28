@@ -44,10 +44,11 @@ Ce projet vise à tester les injections SQL sur un site de sport que nous créon
     - [ ] Exécuter les tests d'injection SQL
     - [ ] Analyser les résultats des tests
      
-  
----
+
 
 - [ ] Documenter tout le processus et partager les résultats
+
+---
 
 Optionel -Apres le projet si envie- :
 - [ ] Implémenter des mesures de sécurité contre les injections SQL
