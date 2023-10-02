@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
+    <link href="assets/images/logoFrites.jpg" rel="icon">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
@@ -24,7 +25,8 @@
                 <div class="col-12">
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
-                        <a href="index.php" class="logo">Basic<em> Frites</em></a>
+                        <img src="assets/images/logoFrites.jpg" alt=""style="max-width:75px;max-height:75px;position:absolute;" class="img-fluid rounded-circle">
+                        <a href="index.php" class="logo" style="margin-left:125px;">Basic<em> Frites</em></a>
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
