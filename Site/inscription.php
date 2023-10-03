@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Basic Frites - Connexion</title>
+    <title>Basic Frites - ConnInscriptionexion</title>
     <?php include('assets/php/nav.php'); ?>
 </head>
 <body>
@@ -11,7 +11,7 @@
         <div class="row">
             <div class="col-lg-6 offset-lg-3">
                 <div class="section-heading">
-                    <h2>se <em>connecter</em></h2>
+                    <h2>s'<em>insrcire</em></h2>
                     <img src="assets/images/line-dec.png" alt="">
                     <p>Nunc urna sem, laoreet ut metus id, aliquet consequat magna. Sed viverra ipsum dolor, ultricies fermentum massa consequat eu.</p>
                 </div>
@@ -26,22 +26,29 @@
     <form id="registration-form" method="post" action="assets/verif.php" role="form" onsubmit="return validateForm()">
         <div class="form-group">
             <label for="username">Nom d'utilisateur *</label>
-            <input id="username" type="text" name="username" class="form-control" required="required">
+            <input id="username" type="text" name="" class="form-control" required="required">
+        </div>
+        <div class="form-group">
+            <label for="username">Email *</label>
+            <input id="username" type="text" name="" class="form-control" required="required">
+        </div>
+        <div class="form-group">
+            <label for="username">Numéro de thelephone</label>
+            <input id="username" type="text" name="" class="form-control">
         </div>
         <div class="form-group">
             <label for="password">Mot de passe *</label>
-            <input id="password" type="password" name="password" class="form-control" required="required">
+            <input id="" type="password" name="" class="form-control" required="required">
         </div>
         <div class="form-group">
             <label for="confirm-password">Confirmez le mot de passe *</label>
-            <input id="confirm-password" type="password" name="confirm-password" class="form-control" required="required">
+            <input id="" type="password" name="" class="form-control" required="required">
         </div> 
         <div class="form-group">
-            <input type="" class="btn btn-success btn-register" value="Se connecter ">
+            <input type="submit" class="btn btn-success btn-register" value="S'inscrire ">
         </div>
     </form>
 </section>
-<a href="inscription.php">Inscription</a>
 
 <script>
     function validateForm() {
