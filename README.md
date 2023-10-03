@@ -35,7 +35,7 @@ Ce projet vise à tester les injections SQL sur un site de sport que nous créon
     - [x] Tester le site
 
 - [ ] Élaborer les requêtes SQL
-    - [ ] Définir les requêtes nécessaires
+    - [x] Définir les requêtes nécessaires
     - [ ] Implémenter les requêtes dans le site
     - [ ] Tester les requêtes
 
